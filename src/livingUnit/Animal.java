@@ -1,4 +1,6 @@
-package src;
+package src.livingUnit;
 
-public class Animal {
+public abstract class Animal {
+
+
 }

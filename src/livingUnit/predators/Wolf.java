@@ -1,6 +1,4 @@
-package src.predators;
-
-import src.Animal;
+package src.livingUnit.predators;
 
 public class Wolf {
 }
